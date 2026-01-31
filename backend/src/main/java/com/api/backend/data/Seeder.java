@@ -1,7 +1,7 @@
 /**
  * This file is part of the Sandy Andryanto Online Store Website.
  *
- * @author     Sandy Andryanto <sandy.andryanto.blade@gmail.com>
+ * @author     Sandy Andryanto <sandy.andryanto.official@gmail.com>
  * @copyright  2025
  *
  * For the full copyright and license information,
@@ -314,7 +314,7 @@ public class Seeder {
 					"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.");
 			settings.put("com_location", "West Java, Indonesia");
 			settings.put("com_phone", "+62-898-921-8470");
-			settings.put("com_email", "sandy.andryanto.blade@gmail.com");
+			settings.put("com_email", "sandy.andryanto.official@gmail.com");
 			settings.put("com_currency", "USD");
 			settings.put("installed", 1);
 			settings.put("discount_active", 1);
